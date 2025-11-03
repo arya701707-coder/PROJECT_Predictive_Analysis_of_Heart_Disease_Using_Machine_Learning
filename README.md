@@ -129,8 +129,11 @@ Through detailed analysis, visualization, and model evaluation, we achieved a re
 
 ##  **Author**
 **Name:** ARYA SINGH 
-**Project Title:** Predictive Analysis of Heart Disease Using Machine Learning  
+
+**Project Title:** Predictive Analysis of Heart Disease Using Machine Learning 
+
 **Platform:** IBM Skills Network / GitHub  
+
 **Year:** 2025  
 
 ---
